@@ -1,0 +1,14 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <android.support.v7.preference.SwitchPreferenceCompat
+        android:defaultValue="true"
+        android:key="Daily_Reminder"
+        android:summary="Reminder for return to app"
+        android:title="Daily Reminder" />
+
+    <android.support.v7.preference.SwitchPreferenceCompat
+        android:defaultValue="true"
+        android:key="Movie_Release"
+        android:summary="Reminder showing the movie that released today"
+        android:title="Release Reminder" />
+</PreferenceScreen>

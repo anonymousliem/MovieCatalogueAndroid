@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Submission 4</string>
+    <string name="button_more">Details</string>
+    <string name="intent_title">title</string>
+    <string name="intent_backdrop_path">backdrop path</string>
+    <string name="intent_overview">overview</string>
+    <string name="description">description</string>
+    <string name="title_detail">title detail</string>
+    <string name="image_detail">image detail</string>
+    <string name="title_movie">title movie</string>
+    <string name="description_movie">description movie</string>
+    <string name="image_movie">image movie</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movie">movie</string>
+    <string name="tv">tv</string>
+    <string name="favorite" translatable="false">favorite</string>
+    <string name="delete_movie_from_database" translatable="false">DELETE FROM FAVORITE</string>
+    <string name="search_movie" translatable="false">Search Movie</string>
+    <string name="search_tv" translatable="false">Search TV</string>
+    <string name="empty" translatable="false">empty</string>
+    <string name="setting_apps" translatable="false">Setting Apps</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movie_catalogue">movie catalogue</string>
+
+</resources>
